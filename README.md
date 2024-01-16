@@ -1,4 +1,4 @@
-<img align="right" width="100%" alt="coder" src="https://www.ninjaone.com/wp-content/uploads/2023/10/What-is-a-Patch-blog-banner.gif"/>
+<img align="center" width="100%" alt="coder" src="https://www.ninjaone.com/wp-content/uploads/2023/10/What-is-a-Patch-blog-banner.gif"/>
 <br/>
 
 <h1 align="center">Hi 👋, I'm Daniel Boadzie</h1>
