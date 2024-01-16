@@ -2,7 +2,7 @@
 <br/>
 
 <h1 align="center">Hi 👋, I'm Daniel Boadzie</h1>
-<h3 align="center">Experience Machine Learning Specialist | Data Scientist | Full-stack Engineer with a love for solving complex problems</h3>
+<h3 align="center">Experienced Machine Learning Specialist | Data Scientist | Full-stack Engineer with a love for solving complex problems</h3>
 <img align="right" width="400" alt="coder" src="https://media3.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif?cid=ecf05e4711rq09r2wray5his02fucfu99h9o9hzg6edvpshn&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boadzie&label=Profile%20views&color=0e75b6&style=flat" alt="boadzie" /> </p>
 
